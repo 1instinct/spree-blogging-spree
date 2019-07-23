@@ -40,10 +40,11 @@ en:
     website_url: Website URL
     google_plus_url: Google Plus URL
     bio_info: Biographical info
-    blog: "Blog"
-    blog_entries: "Blog Entries"
-    new_blog_entry: "New Blog Entry"
-    no_blog_entries: "No blog entries found."
+    blog: Blog
+    blog_menu_title: Blog
+    blog_entries: Blog Entries
+    new_blog_entry: New Blog Entry
+    no_blog_entries: No blog entries found
     blog_entry_featured_image: Featured image
     posted_on: Posted on
     posted_in: Posted in
